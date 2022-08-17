@@ -25,13 +25,14 @@ Stack: Bootstrap, CodeIgniter3 MySQL <br />
 >Government Agency/Company Name: Council for the Welfare of Children <br />
 Project Name: Seal of Child Friendly Local Governance - Knowledge Management System <br />
 URL: https://scflg-kms.cwc.gov.ph/ <br />
+Google Play: https://play.google.com/store/apps/details?id=com.phonegap.scflg <br />
 Role: Project Manager / Senior Web Developer <br />
 Stack: Bootstrap, CodeIgniter3 MySQL, Apache Cordova (PhoneGap) <br />
 
 
 >Government Agency/Company Name: Council for the Welfare of Children <br />
 Project Name: CWC-MIS Portal (Document tracking, DTR for employee, announcement and other internal services) <br />
-URL: https://services.cwc.gov.ph/ <br />  Role: Senior Web Developer <br /> Stack: Bootstrap, CodeIgniter3 MySQL, Apache Cordova (PhoneGap) <br />
+URL: https://services.cwc.gov.ph/ <br /> Google Play: https://play.google.com/store/apps/details?id=com.phonegap.cwcmis <br /> Role: Senior Web Developer <br /> Stack: Bootstrap, CodeIgniter3 MySQL, Apache Cordova (PhoneGap) <br />
 
 >Government Agency/Company Name: Council for the Welfare of Children <br />
 Project Name: ASEAN Children's Forum Website <br />
@@ -41,5 +42,12 @@ Stack: WordPress MySQL <br />
 
 
 <b> Public Repo </b> <br />
+
+>Government Agency/Company Name: Council for the Welfare of Children <br />
+Project Name: ChildProtect App <br />
+URL: https://aseanchildrensforum.com/ <br /> 
+Role: Senior Developer <br />
+Stack: Flutter <br />
+
 
 
