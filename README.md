@@ -43,11 +43,9 @@ Stack: WordPress MySQL <br />
 
 <b> Public Repo </b> <br />
 
->Government Agency/Company Name: Council for the Welfare of Children <br />
-Project Name: ChildProtect App <br />
-URL: https://aseanchildrensforum.com/ <br /> 
-Role: Senior Developer <br />
-Stack: Flutter <br />
+>Project Name: Multi Container for NodeJs, CI4, Nginx, MongoDB, and MySQL <br />
+Role: Repo Owner <br />
+Stack: Nodejs, CI4, MongoDB, Mysql, Docker, NGINX <br />
 
 
 
